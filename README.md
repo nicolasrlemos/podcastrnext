@@ -5,8 +5,6 @@
 ## Podcastr
 
 [![Author](https://img.shields.io/badge/author-nicolasrlemos-8257E5?style=flat-square)](https://github.com/nicolasrlemos)
-[![Languages](https://img.shields.io/github/languages/count/nicolasrlemos/podcastr?color=%238257E5&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/nicolasrlemos/podcastr?color=8257E5&style=flat-square)](https://github.com/nicolasrlemos/podcastrnext/stargazers)
 
 <h4 align="center">
   Podcastr is a platform built for podcast broadcasting.
