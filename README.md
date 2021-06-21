@@ -58,5 +58,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with 💜 by Nicolas Lemos 👋 [Check out my LinkedIn](https://www.linkedin.com/in/nicolas-ronchi-lemos-7252b41b8/)
+Made with 💜 by Nicolas Lemos 👋 [Check out my LinkedIn](https://www.linkedin.com/in/nicolas-ronchi-lemos-7252b41b8/)\
 Readme inspired by Joseph Oliveira [Github](https://github.com/josepholiveira)
